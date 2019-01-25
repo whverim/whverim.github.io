@@ -18,7 +18,7 @@
 	"plugins": ["disqus"],
 	"pluginsConfig": {
 		"disqus": {
-            "shortName": "test4jimmy"
+            "shortName": "yanlz"
         }
 	}
 }
